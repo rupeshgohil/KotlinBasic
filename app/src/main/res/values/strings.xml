@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinBasic</string>
+    <string name="app_shared_pref">apppref</string>
+</resources>
