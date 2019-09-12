@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity(), ApiResponseInterface {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         callSocialLogin()
-        //call api methods
+
     }
     fun callSocialLogin() {
        /* ApiRequestFace<Any>(this@MainActivity, ApiInitialize.initializes()
